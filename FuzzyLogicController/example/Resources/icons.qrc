@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/slider-knob1.png</file>
+        <file>icons/slider-knob.png</file>
+        <file>icons/media-stop-3x_disabled.png</file>
+        <file>icons/media-stop-3x.png</file>
+        <file>icons/media-play-3x_disabled.png</file>
+        <file>icons/media-play-3x.png</file>
+        <file>icons/media-pause-3x.png</file>
+        <file>icons/icon_us1.png</file>
+        <file>icons/folder-3x.png</file>
+        <file>icons/crop-4x.png</file>
+        <file>icons/transfer_on.png</file>
+        <file>icons/transfer_off.png</file>
+        <file>icons/robot.png</file>
+        <file>icons/save-icon.png</file>
+        <file>icons/save-icon-rf.png</file>
+        <file>icons/force.png</file>
+        <file>icons/centroid_24.png</file>
+        <file>icons/view_24.png</file>
+        <file>icons/haptic_on.png</file>
+        <file>icons/haptic_off.png</file>
+    </qresource>
+</RCC>
